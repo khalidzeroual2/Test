@@ -1,0 +1,45 @@
+com/example/studentapplicationkhalidzeroual/TimeActivity.java
+ com.example.studentapplicationkhalidzeroual.TimeActivity
+ com.example.studentapplicationkhalidzeroual.TimeActivity$1
+ com.example.studentapplicationkhalidzeroual.TimeActivity$2
+ com.example.studentapplicationkhalidzeroual.TimeActivity$3
+ com.example.studentapplicationkhalidzeroual.TimeActivity$4
+com/example/studentapplicationkhalidzeroual/HealthActivity.java
+ com.example.studentapplicationkhalidzeroual.HealthActivity
+ com.example.studentapplicationkhalidzeroual.HealthActivity$1
+ com.example.studentapplicationkhalidzeroual.HealthActivity$2
+ com.example.studentapplicationkhalidzeroual.HealthActivity$3
+ com.example.studentapplicationkhalidzeroual.HealthActivity$4
+com/example/studentapplicationkhalidzeroual/BudgetActivity.java
+ com.example.studentapplicationkhalidzeroual.BudgetActivity
+ com.example.studentapplicationkhalidzeroual.BudgetActivity$1
+ com.example.studentapplicationkhalidzeroual.BudgetActivity$2
+ com.example.studentapplicationkhalidzeroual.BudgetActivity$3
+ com.example.studentapplicationkhalidzeroual.BudgetActivity$4
+com/example/studentapplicationkhalidzeroual/StudyActivity.java
+ com.example.studentapplicationkhalidzeroual.StudyActivity
+ com.example.studentapplicationkhalidzeroual.StudyActivity$1
+com/example/studentapplicationkhalidzeroual/CookingActivity.java
+ com.example.studentapplicationkhalidzeroual.CookingActivity
+ com.example.studentapplicationkhalidzeroual.CookingActivity$1
+ com.example.studentapplicationkhalidzeroual.CookingActivity$2
+ com.example.studentapplicationkhalidzeroual.CookingActivity$3
+ com.example.studentapplicationkhalidzeroual.CookingActivity$4
+ com.example.studentapplicationkhalidzeroual.CookingActivity$5
+com/example/studentapplicationkhalidzeroual/VideosActivity.java
+ com.example.studentapplicationkhalidzeroual.VideosActivity
+ com.example.studentapplicationkhalidzeroual.VideosActivity$1
+com/example/studentapplicationkhalidzeroual/BuildConfig.java
+ com.example.studentapplicationkhalidzeroual.BuildConfig
+com/example/studentapplicationkhalidzeroual/EmergencyContacts.java
+ com.example.studentapplicationkhalidzeroual.EmergencyContacts
+ com.example.studentapplicationkhalidzeroual.EmergencyContacts$1
+com/example/studentapplicationkhalidzeroual/MainActivity.java
+ com.example.studentapplicationkhalidzeroual.MainActivity
+ com.example.studentapplicationkhalidzeroual.MainActivity$1
+ com.example.studentapplicationkhalidzeroual.MainActivity$2
+ com.example.studentapplicationkhalidzeroual.MainActivity$3
+ com.example.studentapplicationkhalidzeroual.MainActivity$4
+ com.example.studentapplicationkhalidzeroual.MainActivity$5
+ com.example.studentapplicationkhalidzeroual.MainActivity$6
+ com.example.studentapplicationkhalidzeroual.MainActivity$7
