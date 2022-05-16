@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/graduationhat"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="400dp"
+        android:layout_height="731dp"
+        android:layout_marginEnd="8dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0">
+
+        <Button
+            android:id="@+id/healthButton"
+            android:layout_width="441dp"
+            android:layout_height="wrap_content"
+            android:text="@string/healthButton"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            app:backgroundTint="@color/teal_200" />
+
+        <Button
+            android:id="@+id/studyButton"
+            android:layout_width="400dp"
+            android:layout_height="65dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:text="@string/studyButton" />
+
+        <Button
+            android:id="@+id/budgetButton"
+            android:layout_width="426dp"
+            android:layout_height="65dp"
+            android:text="@string/budgetButton"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            app:backgroundTint="?android:attr/colorPressedHighlight" />
+
+        <Button
+            android:id="@+id/emergencyButton"
+            android:layout_width="426dp"
+            android:layout_height="65dp"
+            android:layout_marginStart="16dp"
+            android:text="@string/emergencyButton"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            app:backgroundTint="@android:color/holo_purple" />
+
+        <Button
+            android:id="@+id/cookButton"
+            android:layout_width="426dp"
+            android:layout_height="65dp"
+            android:layout_marginStart="16dp"
+            android:text="@string/cookButton"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            app:backgroundTint="?attr/colorControlActivated" />
+
+        <Button
+            android:id="@+id/timeButton"
+            android:layout_width="426dp"
+            android:layout_height="65dp"
+            android:layout_marginStart="16dp"
+            android:text="@string/timeButton"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            app:backgroundTint="@android:color/holo_green_light" />
+
+        <Button
+            android:id="@+id/videosButton"
+            android:layout_width="426dp"
+            android:layout_height="65dp"
+            android:layout_marginStart="16dp"
+            android:text="@string/videosButton" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
